@@ -1,0 +1,17 @@
+<head>
+    <title>
+        HTML Inputs
+    </title>
+    <body>
+        <form action="">
+            <input type="text"><br>
+            <input type="submit" value=""><br>
+            <input type="file"><br>
+            <input type="date"><br>
+            <input type="radio" name=""><br>
+            <input type="range" name=""><br>
+
+        </form>
+
+    </body>
+</head>
